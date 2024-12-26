@@ -7,7 +7,7 @@ public struct AboutMe {
     let name = "BadBoy17"  // Full name for personal touch
     var pronouns = ["he", "him"]  // Preferred pronouns for inclusivity
     
-    let profession = "Cybersecurity Enthusiast " // Role in cybersecurity
+    let profession = "Cybersecurity Analyst " // Role in cybersecurity
     
     var preferredTechStack = ["python", "kali linux", "network security", "cloud security", "siem", "vulnerability assessment"] // Cybersec-focused stack
     var hasUsed = ["bash", "git", "docker", "aws security", "penetration testing", "incident response"] // Tools I've worked with
