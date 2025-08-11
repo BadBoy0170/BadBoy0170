@@ -7,30 +7,13 @@
 **`Cybersecurity Analyst & AI Enthusiast | Digital Defender | Code Cracker & Network Fortifier`**
 
 Hello there! I'm Kunal (pronounced "Koo-nal" - yes, like "cool" but with a twist). I'm a cybersecurity professional who believes that the best defense is a good offense, and the best offense is understanding your enemy better than they understand themselves.
+- **Resume:** [want to know me more](https://drive.google.com/file/d/1P1ELlYk4vHN1-UsGXJS3yxBifsgsgjDg/view?usp=drive_link)
 
 ###  **What I Do**
 I specialize in protecting digital assets from the ever-evolving landscape of cyber threats. Think of me as a digital security guard, but instead of a flashlight, I use advanced threat intelligence and AI-powered tools. (And yes, I do occasionally talk to my computer - it's called debugging, not insanity!)
 
 ###  **Current Mission**
 Developing a Cybersecurity CLI tool that streamlines vulnerability assessments and incident responses. Because let's face it, in cybersecurity, time is money, and every second counts when you're racing against a potential breach.
-
----
-
-### **Security Specializations**
-- **Incident Response** - Because every superhero needs a crisis plan
-- **Threat Intelligence** - Knowing your enemy is half the battle
-- **Cloud Security** - Because the cloud isn't just fluffy white stuff in the sky
-- **Malware Analysis** - Understanding the bad guys' code
-- **Digital Forensics** - CSI: Cyber Space Investigation
-- **Risk Assessment** - Because prevention is better than a very expensive cure
-
----
-
-## 📞 **Let's Connect**
-
-- **Email:** rajveershikhawat07@gmail.com
-- **Resume:** [View My Professional Story](https://drive.google.com/file/d/1P1ELlYk4vHN1-UsGXJS3yxBifsgsgjDg/view?usp=drive_link)
-- **LinkedIn:** [Let's network professionally](https://linkedin.com/in/yourprofile)
 
 ---
 
