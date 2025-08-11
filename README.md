@@ -16,14 +16,6 @@ Developing a Cybersecurity CLI tool that streamlines vulnerability assessments a
 
 ---
 
-##  **Technical Arsenal**
-
-### **Core Technologies**
-- **Programming Languages:** Python, Java, C++, Swift
-- **Security Tools:** Kali Linux, Metasploit, Splunk, CrowdStrike
-- **Cloud & DevOps:** Docker, Kubernetes, AWS Security, HashiCorp Vault
-- **AI & ML:** Machine Learning for Cybersecurity, AI-driven Security
-
 ### **Security Specializations**
 - **Incident Response** - Because every superhero needs a crisis plan
 - **Threat Intelligence** - Knowing your enemy is half the battle
@@ -31,27 +23,6 @@ Developing a Cybersecurity CLI tool that streamlines vulnerability assessments a
 - **Malware Analysis** - Understanding the bad guys' code
 - **Digital Forensics** - CSI: Cyber Space Investigation
 - **Risk Assessment** - Because prevention is better than a very expensive cure
-
----
-
-##  **Professional Credentials**
-
-### **Certifications** *(Because apparently, experience isn't enough anymore)*
-- **IBM Cybersecurity Analyst Specialization**
-- **Cybersecurity Attack and Defense Fundamentals Specialization**
-- **Certified in Cybersecurity Specialization**
-- **Google Cybersecurity Specialization**
-- **Cryptography (Stanford University)** - *Yes, the real Stanford!*
-- **Cybersecurity Architect Expert (Microsoft)**
-- **Zscaler Cybersecurity Fundamentals Associate Course**
-- **Cybersecurity with Mastercard (PwC)**
-
----
-
-## 📈 **Current Projects**
-
-### **Cybersecurity CLI Tool**
-Building a command-line interface that makes security professionals' lives easier. Think of it as a Swiss Army knife for cybersecurity - compact, versatile, and occasionally surprising.
 
 ---
 
