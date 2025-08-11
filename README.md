@@ -1,22 +1,22 @@
-# 🛡️ Kunal Ranjan - Cybersecurity Professional
+#  Kunal Ranjan - Cybersecurity Professional
 
-> *"Securing digital spaces, one vulnerability at a time... and occasionally making dad jokes about firewalls"* 🔥
+> *"Securing digital spaces, one vulnerability at a time... and occasionally making dad jokes about firewalls"* 
 
-## 👨‍💻 **About Me**
+##  **About Me**
 
 **`Cybersecurity Analyst & AI Enthusiast | Digital Defender | Code Cracker & Network Fortifier`**
 
 Hello there! I'm Kunal (pronounced "Koo-nal" - yes, like "cool" but with a twist). I'm a cybersecurity professional who believes that the best defense is a good offense, and the best offense is understanding your enemy better than they understand themselves.
 
-### 🎯 **What I Do**
+###  **What I Do**
 I specialize in protecting digital assets from the ever-evolving landscape of cyber threats. Think of me as a digital security guard, but instead of a flashlight, I use advanced threat intelligence and AI-powered tools. (And yes, I do occasionally talk to my computer - it's called debugging, not insanity!)
 
-### 🚀 **Current Mission**
+###  **Current Mission**
 Developing a Cybersecurity CLI tool that streamlines vulnerability assessments and incident responses. Because let's face it, in cybersecurity, time is money, and every second counts when you're racing against a potential breach.
 
 ---
 
-## 🛠️ **Technical Arsenal**
+##  **Technical Arsenal**
 
 ### **Core Technologies**
 - **Programming Languages:** Python, Java, C++, Swift
@@ -34,7 +34,7 @@ Developing a Cybersecurity CLI tool that streamlines vulnerability assessments a
 
 ---
 
-## 🏆 **Professional Credentials**
+##  **Professional Credentials**
 
 ### **Certifications** *(Because apparently, experience isn't enough anymore)*
 - **IBM Cybersecurity Analyst Specialization**
@@ -48,20 +48,6 @@ Developing a Cybersecurity CLI tool that streamlines vulnerability assessments a
 
 ---
 
-## 🎮 **Beyond the Code**
-
-### **Personal Interests**
-- **Racing Cars** - Because speed and precision aren't just for cybersecurity
-- **Football Strategy** - Because understanding complex systems is my jam
-- **Continuous Learning** - Because in cybersecurity, yesterday's knowledge is today's vulnerability
-
-### **Fun Facts**
-- I can spot a phishing email from a mile away (it's like having a sixth sense, but for scams)
-- My idea of a relaxing evening involves penetration testing (the legal kind, obviously)
-- I occasionally dream in Python syntax (true story, and yes, it's as weird as it sounds)
-
----
-
 ## 📈 **Current Projects**
 
 ### **Cybersecurity CLI Tool**
@@ -69,28 +55,11 @@ Building a command-line interface that makes security professionals' lives easie
 
 ---
 
-## 🌟 **Why Choose Me?**
-
-### **For Recruiters:**
-- **Proven Track Record:** Multiple industry-recognized certifications
-- **Cutting-Edge Skills:** AI, blockchain, and cloud security expertise
-- **Problem Solver:** I don't just identify vulnerabilities; I fix them
-- **Team Player:** Because cybersecurity is a team sport
-
-### **For Master's Committees:**
-- **Academic Excellence:** Stanford cryptography certification
-- **Research Potential:** AI-driven security methodologies
-- **Industry Experience:** Practical application of theoretical concepts
-- **Innovation Mindset:** Always exploring new security paradigms
-
----
-
 ## 📞 **Let's Connect**
 
 - **Email:** rajveershikhawat07@gmail.com
-- **Resume:** [View My Professional Story](https://drive.google.com/file/d/1KeGM2LRCGteXieTz8kqiRJAL2Un373cj/view?usp=sharing)
+- **Resume:** [View My Professional Story](https://drive.google.com/file/d/1P1ELlYk4vHN1-UsGXJS3yxBifsgsgjDg/view?usp=drive_link)
 - **LinkedIn:** [Let's network professionally](https://linkedin.com/in/yourprofile)
-- **GitHub:** [Check out my code](https://github.com/BadBoy0170)
 
 ---
 
