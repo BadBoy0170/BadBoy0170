@@ -1,12 +1,12 @@
 #  Kunal Ranjan - Cybersecurity Professional
 
-> *"Securing digital spaces, one vulnerability at a time... and occasionally making dad jokes about firewalls"* 
+> *"Securing digital spaces, one vulnerability at a time..."* 
 
 ##  **About Me**
 
 **`Cybersecurity Analyst & AI Enthusiast | Digital Defender | Code Cracker & Network Fortifier`**
 
-Hello there! I'm Kunal (aka "badboy17" - yes, like "cool" but with a twist). I'm a cybersecurity professional who believes that the best defense is a good offense, and the best offense is understanding your enemy better than they understand themselves.
+Hello there! I'm Kunal. I'm a cybersecurity professional who believes that the best defense is a good offense, and the best offense is understanding your enemy better than they understand themselves.
 - **Resume:** [want to know me more](https://drive.google.com/file/d/1P1ELlYk4vHN1-UsGXJS3yxBifsgsgjDg/view?usp=drive_link)
 
 ###  **What I Do**
