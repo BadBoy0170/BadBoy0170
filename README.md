@@ -23,7 +23,6 @@ I'm always interested in:
 - **Cybersecurity challenges** that need innovative solutions
 - **Research opportunities** in AI-driven security
 - **Professional collaborations** that make the digital world safer
-- **Dad jokes** about cybersecurity (I have a whole collection)
 
 ---
 
