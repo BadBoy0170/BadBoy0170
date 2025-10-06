@@ -7,7 +7,7 @@
 **`Cybersecurity Analyst & AI Enthusiast | Digital Defender | Code Cracker & Network Fortifier`**
 
 Hello there! I'm Kunal. I'm a cybersecurity professional who believes that the best defense is a good offense, and the best offense is understanding your enemy better than they understand themselves.
-- **Resume:** [want to know me more](https://drive.google.com/file/d/1P1ELlYk4vHN1-UsGXJS3yxBifsgsgjDg/view?usp=drive_link)
+- **Resume:** [want to know me more](https://drive.google.com/file/d/1kEA4JTrwX9ASrI98N_wxkx_NaboqESPg/view?usp=drive_link)
 
 ###  **What I Do**
 I specialize in protecting digital assets from the ever-evolving landscape of cyber threats. Think of me as a digital security guard, but instead of a flashlight, I use advanced threat intelligence and AI-powered tools. (And yes, I do occasionally talk to my computer - it's called debugging, not insanity!)
